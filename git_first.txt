@@ -1,2 +1,2 @@
-git_1
+git_1 test_2
 git_2
